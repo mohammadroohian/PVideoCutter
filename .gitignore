@@ -1,0 +1,5 @@
+/.vs
+/PVideoCutter/obj
+/PVideoCutter/bin
+/publish
+/PVideoCutter/*.pfx

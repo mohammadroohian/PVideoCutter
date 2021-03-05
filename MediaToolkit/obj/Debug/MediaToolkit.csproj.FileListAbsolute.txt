@@ -1,0 +1,16 @@
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\bin\Debug\MediaToolkit.dll
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\bin\Debug\MediaToolkit.pdb
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csprojAssemblyReference.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.Properties.Resources.resources
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csproj.GenerateResource.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csproj.CoreCompileInputs.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.dll
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.pdb
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\bin\Debug\MediaToolkit.dll
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\bin\Debug\MediaToolkit.pdb
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csprojAssemblyReference.cache
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.Properties.Resources.resources
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csproj.GenerateResource.cache
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.csproj.CoreCompileInputs.cache
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.dll
+D:\Mohammad\___sync_EnglishChannel\WpfApp_EL\MediaToolkit\obj\Debug\MediaToolkit.pdb

@@ -1,0 +1,8 @@
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\bin\Release\MediaToolkit.dll
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\bin\Release\MediaToolkit.pdb
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.csprojAssemblyReference.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.Properties.Resources.resources
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.csproj.GenerateResource.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.csproj.CoreCompileInputs.cache
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.dll
+C:\Users\F-M\source\repos\WpfApp_EL\MediaToolkit\obj\Release\MediaToolkit.pdb
